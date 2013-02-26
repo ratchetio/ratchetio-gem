@@ -1,3 +1,5 @@
+# This library is deprecated, please use [rollbar-gem](https://github.com/rollbar/rollbar-gem)
+
 # Ratchetio [![Build Status](https://secure.travis-ci.org/ratchetio/ratchetio-gem.png?branch=master)](https://travis-ci.org/ratchetio/ratchetio-gem)
 
 Ruby gem for Ratchet.io, for reporting exceptions in Rails 3 to Ratchet.io. Requires a Ratchet.io account (you can sign up for free).
